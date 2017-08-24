@@ -1,0 +1,28 @@
+{
+  "name": "punto-de-venta",
+  "version": "1.0.0",
+  "description": "punto de venta usando MEAN ",
+  "main": "index.js",
+  "scripts": {
+    "test": "testin"
+  },
+     "dependencies": {
+    "body-parser": "~1.5.0",
+    "composable-middleware": "^0.3.0",
+    "compression": "~1.0.1",
+    "connect-mongo": "^0.4.1",
+    "cookie-parser": "~1.0.1",
+    "ejs": "~0.8.4",
+    "errorhandler": "~1.0.0",
+    "express": "~4.0.0",
+    "express-session": "~1.0.2",
+    "lodash": "~2.4.1",
+    "method-override": "~1.0.0",
+    "mongodb": "^2.0.42",
+    "morgan": "~1.0.0",
+    "ng-alertify": "^0.8.0",
+    "serve-favicon": "~2.0.1"
+  },
+  "author": "jr noe raul cardenas \"El Trova\"",
+  "license": "ISC"
+}
